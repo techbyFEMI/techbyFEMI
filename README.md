@@ -40,7 +40,7 @@
 
 ---
 
-### 📬 Connec
+### 📬 Connect
 
 ```python
 class Femi:
