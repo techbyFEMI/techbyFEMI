@@ -48,9 +48,6 @@ class Femi:
     handle      = "@build_w_Femi"
     location    = "Nigeria 🇳🇬"
     
-    stack       = ["FastAPI", "PostgreSQL", "LangGraph", "React", "Supabase"]
-   
-
 ```
 
 ---
