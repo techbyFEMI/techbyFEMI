@@ -13,7 +13,7 @@
 - 🔧 I build **AI-powered backend systems** and **APIs** that are production-ready
 - 🤖 AI/LLM layer: **LangGraph** for agents
 - 🗄️ Data layer: **PostgreSQL + Supabase** — relational, realtime, and scalable
-- 📐 Believer in clean architecture, explicit schemas, and proof-of-work over credentials
+- 📐 I craft clean architecture, explicit schemas, and I beleive proof-of-work over credentials
 - 🌍 Open to remote backend/AI engineering roles and freelance contracts
 
 ---
