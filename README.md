@@ -40,7 +40,7 @@
 
 ---
 
-### 🧩 How I Build
+### 📬 Connec
 
 ```python
 class Femi:
@@ -51,8 +51,6 @@ class Femi:
 ```
 
 ---
-
-### 📬 Connect
 
 [![Twitter](https://img.shields.io/badge/@build__w__Femi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/build_w_Femi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanusi-ibrahim-548067380?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
